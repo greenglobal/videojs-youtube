@@ -13,3 +13,4 @@ mongoose*.exe
 *.orig
 
 *.log
+config.bat
